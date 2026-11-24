@@ -1,4 +1,6 @@
+
 #EXTM3U
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="Notícias",GLOBO NEWS ( B )
@@ -213,12 +215,8 @@ https://eitvplay.appmembers.com.br/event56/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0
 https://eitvplay.appmembers.com.br/event157/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 #EXTINF:-1 tvg-logo="" group-title="Esportes",Sportv HD (MI)
 http://brasilfonte.pro:80/FonTe629682coMpLeTa/Dia01FoNtE2506CoNeX200/805.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Esportes",Sportv HD (TG)
-http://squishies.top/live/9tYtfX/xD2sdK/22269772.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Esportes",Sportv 2 HD (MI)
 http://brasilfonte.pro:80/FonTe629682coMpLeTa/Dia01FoNtE2506CoNeX200/794.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Esportes",Sportv 2 HD (TG)
-http://squishies.top/live/9tYtfX/xD2sdK/22269773.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Esportes",Sportv 3 UHD (MI)
 http://brasilfonte.pro:80/live/FonTe629682coMpLeTa/Dia01FoNtE2506CoNeX200/3630.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://tse1.mm.bing.net/th/id/OIP.Skq6J-QxQ4p0A5THrUvSxQHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="Esportes",Surf Cinema
@@ -251,16 +249,10 @@ https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playl
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="cazetv1"tvg-logo="https://od.lk/s/NzdfNTg2NDIzNjRf/cazetv.png" group-title="Esportes",Cazé TV 1 ( MI )
 http://brasilfonte.pro:80/FonTe629682coMpLeTa/Dia01FoNtE2506CoNeX200/6354.m3u8
-#EXTINF:-1 tvg-id="cazetv1"tvg-logo="https://od.lk/s/NzdfNTg2NDIzNjRf/cazetv.png" group-title="Esportes",Cazé TV 1 ( TG )
-http://squishies.top/live/9tYtfX/xD2sdK/22269140.m3u8
 #EXTINF:-1 tvg-id="cazetv1"tvg-logo="https://od.lk/s/NzdfNTg2NDIzNjRf/cazetv.png" group-title="Esportes",Cazé TV 1 ( SM )
 https://eitvplay.appmembers.com.br/event55/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 #EXTINF:-1 tvg-id="cazetv1"tvg-logo="https://od.lk/s/NzdfNTg2NDIzNjRf/cazetv.png" group-title="Esportes",Cazé TV 2 ( MI )
 http://brasilfonte.pro:80/FonTe629682coMpLeTa/Dia01FoNtE2506CoNeX200/6355.m3u8
-#EXTINF:-1 tvg-id="cazetv1"tvg-logo="https://od.lk/s/NzdfNTg2NDIzNjRf/cazetv.png" group-title="Esportes",Cazé TV 2 ( TG )
-http://squishies.top/live/9tYtfX/xD2sdK/22269141.m3u8
-#EXTINF:-1 tvg-id="cazetv1"tvg-logo="https://od.lk/s/NzdfNTg2NDIzNjRf/cazetv.png" group-title="Esportes",Cazé TV 3 ( TG )
-http://squishies.top/live/9tYtfX/xD2sdK/22269142.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Esportes",Prime Video 01 FHD (MI)
 http://brasilfonte.pro:80/live/FonTe629682coMpLeTa/Dia01FoNtE2506CoNeX200/4522.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Esportes",Prime Video 02 FHD (MI)
