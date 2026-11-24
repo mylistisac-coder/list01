@@ -1,8 +1,4 @@
-
-
 #EXTM3U
-
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/NzdfNTg1NjQxMjlf/globo.png" group-title="Notícias",GLOBO NEWS ( B )
 http://79.127.238.228:14093
@@ -217,11 +213,11 @@ https://eitvplay.appmembers.com.br/event157/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe
 #EXTINF:-1 tvg-logo="" group-title="Esportes",Sportv HD (MI)
 http://brasilfonte.pro:80/FonTe629682coMpLeTa/Dia01FoNtE2506CoNeX200/805.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Esportes",Sportv HD (TG)
-http://biiaa.shop:80/play/9EkavFPICQel-wdoP2yCAC2u9jx4sz8vCFAT-L6H8IN2gD7PF9d30npdH83vh4tgt36BI3wUZP52GIM.m3u8
+http://biiaa.shop:80/live/9tYtfX/xD2sdK/22269772.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Esportes",Sportv 2 HD (MI)
 http://brasilfonte.pro:80/FonTe629682coMpLeTa/Dia01FoNtE2506CoNeX200/794.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Esportes",Sportv 2 HD (TG)
-http://biiaa.shop:80/play/whKC29xF5kJuP4T-kXbuadnvHqM19muhGjf6gcEutH19YRVPP2_hrmo6esmQVbS4f-PtGAvLQhQWeHk.m3u8
+http://biiaa.shop:80/live/9tYtfX/xD2sdK/22269773.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Esportes",Sportv 3 UHD (MI)
 http://brasilfonte.pro:80/live/FonTe629682coMpLeTa/Dia01FoNtE2506CoNeX200/3630.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://tse1.mm.bing.net/th/id/OIP.Skq6J-QxQ4p0A5THrUvSxQHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="Esportes",Surf Cinema
@@ -255,15 +251,15 @@ https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3
 #EXTINF:-1 tvg-id="cazetv1"tvg-logo="https://od.lk/s/NzdfNTg2NDIzNjRf/cazetv.png" group-title="Esportes",Cazé TV 1 ( MI )
 http://brasilfonte.pro:80/FonTe629682coMpLeTa/Dia01FoNtE2506CoNeX200/6354.m3u8
 #EXTINF:-1 tvg-id="cazetv1"tvg-logo="https://od.lk/s/NzdfNTg2NDIzNjRf/cazetv.png" group-title="Esportes",Cazé TV 1 ( TG )
-http://biiaa.shop:80/play/o716nyPTCUYKIYeUtmw3vVL5p0lbbHT4KjD87KSKD3XaMyFL_jZqNoZ0bDj00plinRkrdFoQDg2iQ7Q.m3u8
+http://biiaa.shop:80/live/9tYtfX/xD2sdK/22269140.m3u8
 #EXTINF:-1 tvg-id="cazetv1"tvg-logo="https://od.lk/s/NzdfNTg2NDIzNjRf/cazetv.png" group-title="Esportes",Cazé TV 1 ( SM )
 https://eitvplay.appmembers.com.br/event55/index.m3u8?token=jzFQQe9OVYP1ycd5Cqe0Av7tzx6QRtgJ
 #EXTINF:-1 tvg-id="cazetv1"tvg-logo="https://od.lk/s/NzdfNTg2NDIzNjRf/cazetv.png" group-title="Esportes",Cazé TV 2 ( MI )
 http://brasilfonte.pro:80/FonTe629682coMpLeTa/Dia01FoNtE2506CoNeX200/6355.m3u8
 #EXTINF:-1 tvg-id="cazetv1"tvg-logo="https://od.lk/s/NzdfNTg2NDIzNjRf/cazetv.png" group-title="Esportes",Cazé TV 2 ( TG )
-http://biiaa.shop:80/play/9cXtk-ZHXPBe8cnVWbYQgR7QHhx8m83hGP-SPWtu6mWW_gh4Raj2eP5L1_e2Fll4gG3NU0zegQtp4eA.m3u8
+http://biiaa.shop:80/live/9tYtfX/xD2sdK/22269141.m3u8
 #EXTINF:-1 tvg-id="cazetv1"tvg-logo="https://od.lk/s/NzdfNTg2NDIzNjRf/cazetv.png" group-title="Esportes",Cazé TV 3 ( TG )
-http://biiaa.shop:80/play/bJd08HoOlRcuhbK8CHclCIpsuQopzuvuYWap2fdrqnVoyHgvpQrYjo2gED0f7Domxsn7P2PVFDNaEg0.m3u8
+http://biiaa.shop:80/live/9tYtfX/xD2sdK/22269142.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Esportes",Prime Video 01 FHD (MI)
 http://brasilfonte.pro:80/live/FonTe629682coMpLeTa/Dia01FoNtE2506CoNeX200/4522.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Esportes",Prime Video 02 FHD (MI)
